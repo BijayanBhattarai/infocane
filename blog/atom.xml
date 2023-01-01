@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/infocane/blog</id>
-    <title>My Site Blog</title>
+    <title>InfoCane Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/infocane/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>InfoCane Blog</subtitle>
     <icon>https://github.com/infocane/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
