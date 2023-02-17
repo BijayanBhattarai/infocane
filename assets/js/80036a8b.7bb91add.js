@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfocane=self.webpackChunkinfocane||[]).push([[6681],{6758:e=>{e.exports=JSON.parse('{"permalink":"/infocane/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
